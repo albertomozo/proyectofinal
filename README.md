@@ -4,9 +4,13 @@ proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 * PHP 7.4 
 * MySql
 * Apache
-* Api Key de @https://www.themoviedb.org
-* Plantilla bootstrap pagina publica
+* Api Key de https://www.themoviedb.org
+* Plantilla bootstrap pagina publica 
+  Template Link    : https://htmlcodex.com/renewable-energy-website-template
+  READ-ME.txt
 * Plantilla bootstrap pagina privada 
+  [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+  admin/README.md
 
 ## INSTALACION
 
@@ -17,6 +21,8 @@ proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 * crear BD peliculas en MySql mediante el fichero peliculas.sql
 * configurar el sitio en los ficheros de configuracion 
   * admin/inc_config.php
+      * Configuración BD
+      * Apikey de the moviedb.org
   * admin/inc_conexion_peliculas.php
 
 Acceder a la url 
