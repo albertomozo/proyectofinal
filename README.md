@@ -12,12 +12,14 @@ proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 
 
 * Descargar en fichero zip 
-* clonar desde github
+* Clonar desde github
 
-* crear BD peliculas en Mysql mediante el fichero peliculas.sql
-* configuras el sitio en los ficheros de configuracion 
-** admin/inc_config.php
-** admin/inc_conexion_peliculas.php
+* crear BD peliculas en MySql mediante el fichero peliculas.sql
+* configurar el sitio en los ficheros de configuracion 
+  * admin/inc_config.php
+  * admin/inc_conexion_peliculas.php
+
+Acceder a la url 
 
 
 
