@@ -17,6 +17,9 @@ proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 * crear BD peliculas en Mysql mediante el fichero peliculas.sql
 * configuras el sitio en los ficheros de configuracion 
 ** admin/inc_config.php
+** admin/inc_conexion_peliculas.php
+
+
 
 
 
