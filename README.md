@@ -1,4 +1,4 @@
-# proyectofinal
+# PROYECTO FINAL BACKEND
 proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 ## REQUERIMIENTOS GENERALES
 * PHP 7.4 
@@ -42,6 +42,14 @@ Acceder a la url
 
 * Fichero peliculas.sql done estan todas las sentecias SQL PARA generar las tablas
 * admin/inc_config.php
+
+## DOCUMENTACION
+
+Puedes analizar el trabajo realizado en este enlace
+
+https://docs.google.com/presentation/d/1mlDM4-6zStAs7T_W_--fXbgeWzKNkUJ5IfrWz9kYez4/edit?usp=sharing
+
+
 
 
 
