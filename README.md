@@ -34,8 +34,42 @@ Acceder a la url
 
 ## ESTRUCTURA DE CARPETAS
 
-* /admin  :  Página de administración con su propia platilla
-* 
++---admin
+|   +---css
+|   +---img
+|   |   \---perfil
+|   +---js
+|   |   \---demo
+|   +---log
+|   \---scss
+|       +---navs
+|       \---utilities
++---css
++---img
++---js
++---lib
+|   +---animate
+|   +---counterup
+|   +---easing
+|   +---isotope
+|   +---lightbox
+|   |   +---css
+|   |   +---images
+|   |   \---js
+|   +---owlcarousel
+|   |   \---assets
+|   +---waypoints
+|   \---wow
+\---scss
+    \---bootstrap
+        \---scss
+            +---forms
+            +---helpers
+            +---mixins
+            +---utilities
+            \---vendor
+            
+
 
 ## FICHEROS DE CONFIGURACION
 
