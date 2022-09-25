@@ -33,7 +33,7 @@ Acceder a la url
 
 
 ## ESTRUCTURA DE CARPETAS
-
+```
 +---admin
 |   +---css
 |   +---img
@@ -68,8 +68,9 @@ Acceder a la url
             +---mixins
             +---utilities
             \---vendor
-            
 
+
+```
 
 ## FICHEROS DE CONFIGURACION
 
