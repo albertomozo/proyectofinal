@@ -43,6 +43,19 @@ Acceder a la url
 * Fichero peliculas.sql done estan todas las sentecias SQL PARA generar las tablas
 * admin/inc_config.php
 
+## SITIOS
+### SITIO PUBLICO
+
+### SITIO PRIVADO (ADMIN)
+
+https://github.com/albertomozo/albertomozo.github.io/blob/main/images/admin_01.PNG
+
+
+
+
+3
+
+
 ## DOCUMENTACION
 
 Puedes analizar el trabajo realizado en este enlace
