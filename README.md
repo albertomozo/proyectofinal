@@ -48,7 +48,8 @@ Acceder a la url
 
 ### SITIO PRIVADO (ADMIN)
 
-https://github.com/albertomozo/albertomozo.github.io/blob/main/images/admin_01.PNG
+![https://albertomozo.github.io/images/admin_01.PNG]
+![](https://albertomozo.github.io/images/admin_01.PNG)
 
 
 
