@@ -5,6 +5,8 @@ proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 * MySql
 * Apache
 * Api Key de https://www.themoviedb.org
+  Hay que registrase y usar la APIKEY que te suministran en su web.
+  La documentqción de la api [developers.themoviedb.org](https://developers.themoviedb.org/3/getting-started/introduction)
 * Plantilla bootstrap pagina publica 
   Template Link    : https://htmlcodex.com/renewable-energy-website-template
   READ-ME.txt
