@@ -21,9 +21,10 @@ proyecto final curso BACK, desarrorralo con PHP Y MYSQL
 * crear BD peliculas en MySql mediante el fichero peliculas.sql
 * configurar el sitio en los ficheros de configuracion 
   * admin/inc_config.php https://github.com/albertomozo/proyectofinal/blob/main/admin/inc_config.php 
-      * Configuración BD
-      * Apikey de the moviedb.org
+     
   * admin/inc_conexion_peliculas.php
+     * Configuración BD
+     * Apikey de the moviedb.org
 
 Acceder a la url 
 
@@ -81,9 +82,12 @@ Acceder a la url
 ## SITIOS
 ### SITIO PUBLICO
 
+![](https://albertomozo.github.io/images/git_publica.PNG)
+
+
 ### SITIO PRIVADO (ADMIN)
 
-![https://albertomozo.github.io/images/admin_01.PNG]
+![https://albertomozo.github.io/images/git_publica.PNG]
 ![](https://albertomozo.github.io/images/admin_01.PNG)
 
 
